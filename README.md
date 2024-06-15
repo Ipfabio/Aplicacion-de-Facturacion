@@ -1,7 +1,3 @@
-¡Por supuesto! A continuación, te proporciono una sección adicional en el README que explica las clases y funciones principales de cada script, así como enlaces a recursos donde puedes aprender más sobre cada módulo o librería utilizada.
-
----
-
 # Sistema de Facturación Personalizado con Python
 
 Este proyecto es un sistema de facturación personalizado desarrollado con Python. Utiliza diversas bibliotecas y servicios para generar facturas, registrar datos en Google Sheets y CSV, enviar correos electrónicos y generar reportes de facturación.
@@ -142,7 +138,3 @@ python generate_report.py
 - Asegúrate de que los puertos configurados en los scripts Flask no estén en uso por otros servicios.
 - Ajusta los nombres y rutas de archivos según tus necesidades.
 - Para un entorno de producción, considera usar un servidor WSGI como Gunicorn y configurar un servidor web como Nginx para manejar las solicitudes.
-
----
-
-Este README ahora incluye explicaciones de las clases y funciones principales de cada script, junto con recursos adicionales para aprender más sobre cada módulo o librería utilizada en el proyecto.
